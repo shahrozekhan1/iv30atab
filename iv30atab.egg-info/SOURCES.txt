@@ -1,0 +1,6 @@
+setup.py
+iv30atab.egg-info/PKG-INFO
+iv30atab.egg-info/SOURCES.txt
+iv30atab.egg-info/dependency_links.txt
+iv30atab.egg-info/requires.txt
+iv30atab.egg-info/top_level.txt
